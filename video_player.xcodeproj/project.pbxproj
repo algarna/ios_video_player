@@ -16,6 +16,7 @@
 		CD962DD12927A2F3000E6F19 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD962DD02927A2F3000E6F19 /* video_playerTests.swift */; };
 		CD962DDB2927A2F3000E6F19 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD962DDA2927A2F3000E6F19 /* video_playerUITests.swift */; };
 		CD962DDD2927A2F3000E6F19 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD962DDC2927A2F3000E6F19 /* video_playerUITestsLaunchTests.swift */; };
+		CD962DEC2927A7CA000E6F19 /* ElephantsDream.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CD962DEB2927A7CA000E6F19 /* ElephantsDream.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CD962DD62927A2F3000E6F19 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD962DDA2927A2F3000E6F19 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		CD962DDC2927A2F3000E6F19 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CD962DEB2927A7CA000E6F19 /* ElephantsDream.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = ElephantsDream.mp4; path = ../../../../Downloads/ElephantsDream.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CD962DC22927A2F3000E6F19 /* Assets.xcassets */,
 				CD962DC42927A2F3000E6F19 /* LaunchScreen.storyboard */,
 				CD962DC72927A2F3000E6F19 /* Info.plist */,
+				CD962DEB2927A7CA000E6F19 /* ElephantsDream.mp4 */,
 			);
 			path = video_player;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				CD962DC62927A2F3000E6F19 /* LaunchScreen.storyboard in Resources */,
 				CD962DC32927A2F3000E6F19 /* Assets.xcassets in Resources */,
 				CD962DC12927A2F2000E6F19 /* Main.storyboard in Resources */,
+				CD962DEC2927A7CA000E6F19 /* ElephantsDream.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
